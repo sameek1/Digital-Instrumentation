@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>http://tokyo-teas.myshopify.com/blogs/news.atom</id>
+  <link rel="alternate" type="text/html" href="http://tokyo-teas.myshopify.com/blogs/news"/>
+  <link rel="self" type="application/atom+xml" href="http://tokyo-teas.myshopify.com/blogs/news.atom"/>
+  <title>Tokyo Teas - Latest News</title>
+  <updated>2012-11-01T06:13:40-04:00</updated>
+  <author>
+    <name>Tokyo Teas</name>
+  </author>
+  <entry>
+    <id>http://tokyo-teas.myshopify.com/blogs/news/6823334-second-post</id>
+    <published>2012-11-01T06:13:40-04:00</published>
+    <updated>2012-11-08T23:35:46-05:00</updated>
+    <link rel="alternate" type="text/html" href="http://tokyo-teas.myshopify.com/blogs/news/6823334-second-post"/>
+    <title>Second Post</title>
+    <author>
+      <name>Brad Miller</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p style="text-align: left; "><img src="//cdn.shopify.com/s/files/1/0179/8721/files/sorapot_square_compact.jpg?1881" alt="" style="float: left; margin-right: 15px; margin-bottom: 15px; " />The Shopify Mobila theme features a very clean and functional blog that beautifully features your news updates.</p>
+<p style="text-align: left; ">You can even choose to feature the Author of each post by editing your Shopify account information.</p>
+<p><a href="http://tokyo-teas.myshopify.com/blogs/news/6823334-second-post" class="read-more">Read More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p style="text-align: left; "><img src="//cdn.shopify.com/s/files/1/0179/8721/files/sorapot_square_medium.jpg?1881" alt="" style="float: left; margin-right: 15px; margin-bottom: 15px; " />The Shopify Mobila theme features a very clean and functional blog that beautifully features your news updates.</p>
+<p style="text-align: left; ">You can even choose to feature the Author of each post by editing your Shopify account information.</p>
+<p style="text-align: left; ">To display images on the home page, 'add an excerpt' to each of your articles.</p>
+<br class="clear" />
+<p><img src="//cdn.shopify.com/s/files/1/0179/8721/files/Food_Drinks_Tea_with_mint_023595_medium.jpeg?952" alt="" style="float: right; margin-left: 15px; margin-bottom: 15px; " />
+You can insert multiple images or embed videos into your articles.
+</p>
+<p>For any questions or support, please contact <a href="mailto:info@outofthesandbox.com">info@outofthesandbox.com</a></p>
+]]>
+    </content>
+  </entry>
+  <entry>
+    <id>http://tokyo-teas.myshopify.com/blogs/news/6519343-first-post</id>
+    <published>2012-09-03T01:39:43-04:00</published>
+    <updated>2012-10-31T22:39:27-04:00</updated>
+    <link rel="alternate" type="text/html" href="http://tokyo-teas.myshopify.com/blogs/news/6519343-first-post"/>
+    <title>First Post</title>
+    <author>
+      <name>Rachelle Miller</name>
+    </author>
+    <summary type="html">
+      <![CDATA[<p style="text-align: left; "><img src="//cdn.shopify.com/s/files/1/0179/8721/files/04_large_compact.png?727" alt="" style="float: left; margin-right: 20px; margin-bottom: 20px; " />This is your store’s blog. You can use it to talk about new product launches, experiences, tips or other news you want your customers to read about.</p>
+<p>You can check out Shopify’s&nbsp;<a href="http://www.shopify.com/blog">ecommerce blog</a>&nbsp;for inspiration and advice for your own store and for your store’s blog.</p>
+<p><a href="http://tokyo-teas.myshopify.com/blogs/news/6519343-first-post" class="read-more">Read More</a></p>]]>
+    </summary>
+    <content type="html">
+      <![CDATA[<p style="text-align: left; "><img src="//cdn.shopify.com/s/files/1/0179/8721/files/04_large_medium.png?727" alt="" style="float: left; margin-right: 20px; margin-bottom: 10px; " />This is your store’s blog. You can use it to talk about new product launches, experiences, tips or other news you want your customers to read about.</p>
+<p>You can check out Shopify’s&nbsp;<a href="http://www.shopify.com/blog">ecommerce blog</a>&nbsp;for inspiration and advice for your own store and for your store’s blog.</p>
+<p><strong>How do I remove this post?</strong><br />
+Log in to your store’s <a href="/admin">admin area</a> then go to the blog section to delete this post.</p>
+<p><strong>Why use Shopify?</strong><br />
+<a href="http://www.shopify.com/">Shopify</a> gives you everything you need to <a href="http://www.shopify.com/tour/sell-online">sell online</a> and run an online store.  Pick an <a href="http://www.shopify.com/tour/website-design">ecommerce template</a>, add your products, then launch your store to the world.  Shopify includes <a href="http://www.shopify.com/tour/ecommerce-hosting">ecommerce hosting</a>, a <a href="http://www.shopify.com/tour/shopping-cart">shopping cart software</a>, and more.</p>
+]]>
+    </content>
+  </entry>
+</feed>
